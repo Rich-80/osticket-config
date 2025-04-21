@@ -35,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 </p>
 <p>
-First, configure the role for Supreme Admin. Making sure you are in the Admin Panel (found in the top right), we will add a new role Agents>Roles>Add New Role. Name the role "Supreme Admin" and check all boxes in Permissions before creating.
+First, configure the role for Supreme Admin. Making sure you are in the Admin Panel (found in the top right), we will add a new role, Agents>Roles>Add New Role. Name the role "Supreme Admin" and check all boxes in Permissions before creating.
 </p>
 <br />
 
@@ -53,7 +53,7 @@ Remaining in the Admin Panel, Agents>Departments>Add New Department. Name the de
 
 </p>
 <p>
-Remaining in the Admin Panel, Agents>Teams>Add New Team. Name the team "Level II Support", add appropriate members in the "Members" tab, and create team.
+Remaining in the Admin Panel, Agents>Teams>Add New Team. Name the team "Level II Support", add appropriate members in the "Members" tab, and create the team.
 </p>
 <br />
 
@@ -62,7 +62,7 @@ Remaining in the Admin Panel, Agents>Teams>Add New Team. Name the team "Level II
 
 </p>
 <p>
-In the Admin Panel, Agents>Agents>Add New Agent. Name the agent and provide a username for the agent. In the 'Access' tab, select the department and the role and add to a team in the 'Teams' tab, if appropriate. 
+In the Admin Panel, Agents>Agents>Add New Agent. Name the agent and provide a username for the agent. In the 'Access' tab, select the department and the role, and add to a team in the 'Teams' tab, if appropriate. 
 </p>
 <br />
 
