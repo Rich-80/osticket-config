@@ -29,8 +29,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img width="502" alt="image" src="https://github.com/user-attachments/assets/e4f27dfd-ed61-4713-bd4c-1ef7b12dbdd7" />
+![Screenshot 2025-04-21 165356](https://github.com/user-attachments/assets/52636b1e-5ae2-49cd-a23a-17f87c5f97c6)
+
 
 
 </p>
@@ -39,8 +39,8 @@ First, configure the role for Supreme Admin. Making sure you are in the Admin Pa
 </p>
 <br />
 
-<p>
-<img width="506" alt="image" src="https://github.com/user-attachments/assets/eb634c0e-2202-4d79-b2a8-20fc0820d09a" />
+![Screenshot 2025-04-21 165415](https://github.com/user-attachments/assets/e4c75b03-3f03-467e-8c52-7e195db1faa0)
+
 
 </p>
 <p>
@@ -48,8 +48,8 @@ Remaining in the Admin Panel, Agents>Departments>Add New Department. Name the de
 </p>
 <br />
 
-<p>
-<img width="532" alt="image" src="https://github.com/user-attachments/assets/c5089879-0e98-4a54-9e91-aa07cc931fd0" />
+![Screenshot 2025-04-21 165434](https://github.com/user-attachments/assets/3383c276-4b6b-4dd4-98b1-3c99a460c9de)
+
 
 </p>
 <p>
@@ -57,8 +57,8 @@ Remaining in the Admin Panel, Agents>Teams>Add New Team. Name the team "Level II
 </p>
 <br />
 
-<p>
-<img width="562" alt="image" src="https://github.com/user-attachments/assets/2319079e-e924-4e72-966e-e30434421741" />
+![Screenshot 2025-04-21 165452](https://github.com/user-attachments/assets/89f7f1b6-e651-4717-b4ac-23bda87a23eb)
+
 
 </p>
 <p>
@@ -66,8 +66,8 @@ In the Admin Panel, Agents>Agents>Add New Agent. Name the agent and provide a us
 </p>
 <br />
 
-<p>
-<img width="483" alt="image" src="https://github.com/user-attachments/assets/712a7cfd-36a4-44d0-b8f3-23e6d96c4866" />
+![Screenshot 2025-04-21 165508](https://github.com/user-attachments/assets/5b449b4c-bb25-4a5d-ad12-0b6c7e25e170)
+
 
 </p>
 <p>
@@ -75,8 +75,8 @@ Switching to the Agent Panel (located in the top right), we will create the user
 </p>
 <br />
 
-<p>
-<img width="583" alt="image" src="https://github.com/user-attachments/assets/5c337af7-72a6-4822-9286-c72597634359" />
+![Screenshot 2025-04-21 165524](https://github.com/user-attachments/assets/0892cf94-ab2a-4825-8993-026c52008a1b)
+
 
 </p>
 <p>
@@ -84,8 +84,8 @@ Switching back to the Admin Panel, we will create the Service Level Agreements (
 </p>
 <br />
 
-<p>
-<img width="599" alt="image" src="https://github.com/user-attachments/assets/01d4d309-ac52-4024-a008-41ff4eea509a" />
+![Screenshot 2025-04-21 165538](https://github.com/user-attachments/assets/e9ab273e-69aa-476c-b66f-d62f52c55fd7)
+
 
 </p>
 <p>
